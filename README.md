@@ -11,12 +11,12 @@ começar em um dia e terminar em outro, tendo uma duração mínima de 1 hora e 
 Exercício 5 - Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A
 seguir, calcule e mostre o valor da conta a pagar.
 
-Código     Especificacao       Preço
-1         Cachorro quente       4
-2         X Salada              4.50
-3
-4
-5
+<p>Código  ---   Especificacao   ---    Preço </p>
+<p>1     ---     Cachorro quente   ---    4</p>
+<p>2    ---      X Salada     ---        4.50</p>
+<p>3    ---     X Bacon       ---        5</p>
+<p>4   ---       Torrada Simples   ---     2</p>
+<p>5    ---      Refrigerante     ---      1.50</p>
 
 Exercício 6 - Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos
 seguintes intervalos ([0,25], (25,50], (50,75], (75,100]) este valor se encontra. Obviamente se o valor não estiver em
